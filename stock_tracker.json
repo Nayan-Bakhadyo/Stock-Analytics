@@ -1,48 +1,48 @@
 {
-  "last_updated": "2025-11-17T12:19:21.703320",
-  "total_processed": 140,
+  "last_updated": "2025-11-17T15:11:28.098340",
+  "total_processed": 159,
   "stocks": {
     "NABIL": {
-      "last_analyzed": "2025-11-15T23:43:40.183393",
+      "last_analyzed": "2025-11-17T13:01:01.246799",
       "status": "success",
       "error": null,
-      "analysis_count": 3
+      "analysis_count": 4
     },
     "NICA": {
-      "last_analyzed": "2025-11-15T23:49:44.373180",
+      "last_analyzed": "2025-11-17T13:01:53.466858",
+      "status": "success",
+      "error": null,
+      "analysis_count": 4
+    },
+    "SCB": {
+      "last_analyzed": "2025-11-17T13:02:45.787069",
       "status": "success",
       "error": null,
       "analysis_count": 3
     },
-    "SCB": {
-      "last_analyzed": "2025-11-15T23:56:37.380725",
+    "IGI": {
+      "last_analyzed": "2025-11-17T12:57:34.023697",
       "status": "success",
       "error": null,
       "analysis_count": 2
     },
-    "IGI": {
-      "last_analyzed": "2025-11-15T22:50:44.363279",
-      "status": "success",
-      "error": null,
-      "analysis_count": 1
-    },
     "AHPC": {
-      "last_analyzed": "2025-11-15T23:03:44.992452",
+      "last_analyzed": "2025-11-17T12:58:51.722892",
       "status": "success",
       "error": null,
-      "analysis_count": 1
+      "analysis_count": 2
     },
     "SHPC": {
-      "last_analyzed": "2025-11-15T23:09:19.658317",
+      "last_analyzed": "2025-11-17T13:00:08.173634",
       "status": "success",
       "error": null,
-      "analysis_count": 1
+      "analysis_count": 2
     },
     "ACLBSL": {
-      "last_analyzed": "2025-11-16T00:06:51.975034",
+      "last_analyzed": "2025-11-17T13:04:03.543170",
       "status": "success",
       "error": null,
-      "analysis_count": 1
+      "analysis_count": 2
     },
     "AHL": {
       "last_analyzed": "2025-11-16T00:13:19.578151",
@@ -838,6 +838,120 @@
     },
     "MSLB": {
       "last_analyzed": "2025-11-17T12:19:21.703320",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NABBC": {
+      "last_analyzed": "2025-11-17T12:32:25.445723",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NADEP": {
+      "last_analyzed": "2025-11-17T12:37:04.935742",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NBF2": {
+      "last_analyzed": "2025-11-17T12:40:58.019228",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NBF3": {
+      "last_analyzed": "2025-11-17T12:44:37.737246",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NBL": {
+      "last_analyzed": "2025-11-17T12:53:54.863568",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NBLD82": {
+      "last_analyzed": "2025-11-17T13:05:12.438094",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NBLD87": {
+      "last_analyzed": "2025-11-17T13:06:38.206365",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NCCD86": {
+      "last_analyzed": "2025-11-17T13:08:04.440373",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NESDO": {
+      "last_analyzed": "2025-11-17T13:11:12.409266",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NFS": {
+      "last_analyzed": "2025-11-17T13:16:35.626529",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NGPL": {
+      "last_analyzed": "2025-11-17T14:14:38.947422",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NHDL": {
+      "last_analyzed": "2025-11-17T14:19:34.046420",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NHPC": {
+      "last_analyzed": "2025-11-17T14:28:32.830445",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NIBD84": {
+      "last_analyzed": "2025-11-17T14:30:26.214306",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NIBLGF": {
+      "last_analyzed": "2025-11-17T14:33:19.915254",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NIBLSTF": {
+      "last_analyzed": "2025-11-17T15:03:09.696039",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NIBSF2": {
+      "last_analyzed": "2025-11-17T15:07:09.399663",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NICAD85/86": {
+      "last_analyzed": "2025-11-17T15:08:35.822126",
+      "status": "success",
+      "error": null,
+      "analysis_count": 1
+    },
+    "NICFC": {
+      "last_analyzed": "2025-11-17T15:11:28.098340",
       "status": "success",
       "error": null,
       "analysis_count": 1

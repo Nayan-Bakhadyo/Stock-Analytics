@@ -333,7 +333,7 @@ class MLStockPredictor:
         
         # Make predictions for each time horizon
         for week in weeks:
-            days_ahead = week * 5  # Trading days (5 days/week)
+            days_ahead = int(week * 5)  # Trading days (5 days/week), convert to int
             
             # Use recent data for prediction
             recent_data = data[feature_cols].iloc[-self.lookback_days:].values
