@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T03:18:22.159089",
+  "last_updated": "2025-11-19T13:25:39.678249",
   "total_processed": 270,
   "stocks": {
     "NABIL": {
@@ -21,16 +21,16 @@
       "analysis_count": 3
     },
     "IGI": {
-      "last_analyzed": "2025-11-17T12:57:34.023697",
-      "status": "success",
-      "error": null,
-      "analysis_count": 2
-    },
-    "AHPC": {
-      "last_analyzed": "2025-11-18T10:36:00.402694",
+      "last_analyzed": "2025-11-19T13:14:13.479527",
       "status": "success",
       "error": null,
       "analysis_count": 3
+    },
+    "AHPC": {
+      "last_analyzed": "2025-11-19T13:23:42.495153",
+      "status": "success",
+      "error": null,
+      "analysis_count": 4
     },
     "SHPC": {
       "last_analyzed": "2025-11-17T13:00:08.173634",
@@ -543,10 +543,10 @@
       "analysis_count": 1
     },
     "HRL": {
-      "last_analyzed": "2025-11-16T22:59:28.852901",
+      "last_analyzed": "2025-11-19T13:25:39.678249",
       "status": "success",
       "error": null,
-      "analysis_count": 1
+      "analysis_count": 2
     },
     "ICFC": {
       "last_analyzed": "2025-11-16T23:07:51.697025",
@@ -753,10 +753,10 @@
       "analysis_count": 1
     },
     "SPC": {
-      "last_analyzed": "2025-11-18T10:22:02.143381",
+      "last_analyzed": "2025-11-19T13:16:08.054632",
       "status": "success",
       "error": null,
-      "analysis_count": 2
+      "analysis_count": 3
     },
     "MKHL": {
       "last_analyzed": "2025-11-17T11:17:13.956388",
